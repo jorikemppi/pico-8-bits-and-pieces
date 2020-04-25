@@ -39,7 +39,7 @@ __lua__
 
 #include include/hex_to_dec.lua
 
-#include include/render_queue.lua
+#include include/render_queue_editor.lua
 
 #include include/pack_object.lua
 
